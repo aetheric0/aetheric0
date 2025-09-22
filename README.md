@@ -44,7 +44,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/aetheric0/aetheric0/output/github-contribution-grid-snake.svg)
-
-
 ###
